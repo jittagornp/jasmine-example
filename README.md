@@ -8,7 +8,7 @@ document http://jasmine.github.io/edge/introduction.html
 ```shell
 $ cd jasmine-example
 ```
-- install grunt from package.js by command
+- install grunt from package.json by command
 ```shell
 $ npm install
 ```
