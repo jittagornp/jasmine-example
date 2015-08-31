@@ -1,5 +1,6 @@
 # jasmine-example
 javascript test example
+document http://jasmine.github.io/edge/introduction.html
 
 # How to use
 - install node.js
