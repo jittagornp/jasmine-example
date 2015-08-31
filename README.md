@@ -18,7 +18,8 @@ $ npm install
 $ grunt
 ```
 
-## Automate test by command
+## Automate test
+- by command
 ```shell
 $ grunt watch
 ```
