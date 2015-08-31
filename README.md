@@ -1,8 +1,9 @@
 # jasmine-example
-javascript test example<br/>
+> javascript test example
+
 document http://jasmine.github.io/edge/introduction.html
 
-# How to use
+## How to use
 - install node.js from https://nodejs.org/download/
 - go to root project directory
 ```shell
@@ -17,7 +18,7 @@ $ npm install
 $ grunt
 ```
 
-# Automate test by command
+## Automate test by command
 ```shell
 $ grunt watch
 ```
