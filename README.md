@@ -4,7 +4,7 @@ document http://jasmine.github.io/edge/introduction.html
 
 # How to use
 - install node.js
-- goto root project directory
+- go to root project directory
 ```shell
 $ cd jasmine-example
 ```
