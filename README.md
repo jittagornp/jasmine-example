@@ -3,7 +3,7 @@ javascript test example<br/>
 document http://jasmine.github.io/edge/introduction.html
 
 # How to use
-- install node.js
+- install node.js from https://nodejs.org/download/
 - go to root project directory
 ```shell
 $ cd jasmine-example
