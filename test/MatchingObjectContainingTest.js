@@ -37,6 +37,7 @@ describe('example.MatchingObjectContainingTest', function () {
             expect(callback).toHaveBeenCalledWith(jasmine.objectContaining({
                 username: 'jittagornp'
             }));
+            
             expect(callback).not.toHaveBeenCalledWith(jasmine.objectContaining({
                 age: 26
             }));

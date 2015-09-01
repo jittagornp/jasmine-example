@@ -2,7 +2,7 @@
  * @author jittagornp
  * create 30/08/2015
  */
-describe('example.CallsAllTest', function () {
+describe('example.CallsAllTest', function () { 
 
     var obj = {
         setName: function () {
